@@ -2,12 +2,10 @@
 
 …
 Bread
-Tomato
-Chicken
-Tuna
+Tomato and Chicken and Tuna
 Bread
 …
 
 ## Todos:
 
- -[ ] add filling
+ -[x] add filling
