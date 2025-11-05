@@ -2,11 +2,10 @@
 
 …
 Bread
-Tomato
+Cheese and tomato
 Bread
 …
 
 ## Todos:
 
  -[x] add filling
-- [ ] add more food
